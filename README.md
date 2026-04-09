@@ -9,7 +9,7 @@
 **复制下面的链接，添加到你的日历 App：**
 
 ```
-https://miniclaw666.github.io/feishu-calendar/calendar.ics
+https://miniclaw666.github.io/sp-calendar/calendar.ics
 ```
 
 ### iPhone / iPad（日历 App）
