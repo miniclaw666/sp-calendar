@@ -70,3 +70,7 @@ https://miniclaw666.github.io/feishu-calendar/calendar.ics
 
 - 手动更新：有新特殊场次时手动同步
 - 数据来源：连璧剧组官方发布
+
+---
+
+*有修改需要？找虾虾1号💖*
